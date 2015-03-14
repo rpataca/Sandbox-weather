@@ -1,0 +1,43 @@
+[29-Dec-2014 21:37:06] PHP Catchable fatal error:  Object of class DOMNodeList could not be converted to string in /home1/rpataca/public_html/sandbox/weather/index.php on line 28
+[29-Dec-2014 21:37:08] PHP Catchable fatal error:  Object of class DOMNodeList could not be converted to string in /home1/rpataca/public_html/sandbox/weather/index.php on line 28
+[29-Dec-2014 21:58:17] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 21:58:50] PHP Fatal error:  Call to undefined method DOMNodeList::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:00:12] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 14
+[29-Dec-2014 22:00:50] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 14
+[29-Dec-2014 22:00:52] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 14
+[29-Dec-2014 22:03:50] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 14
+[29-Dec-2014 22:04:07] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 14
+[29-Dec-2014 22:04:53] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 16
+[29-Dec-2014 22:04:55] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 16
+[29-Dec-2014 22:06:00] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:06:12] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/rpataca/public_html/sandbox/weather/index.php on line 16
+[29-Dec-2014 22:06:23] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:07:16] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:07:18] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:07:18] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:07:45] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:07:47] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:09:08] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:10:06] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:18:11] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 17
+[29-Dec-2014 22:18:30] PHP Fatal error:  Call to a member function children() on a non-object in /home1/rpataca/public_html/sandbox/weather/index.php on line 17
+[29-Dec-2014 22:18:50] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 17
+[29-Dec-2014 22:20:09] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 17
+[29-Dec-2014 22:27:12] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 21
+[29-Dec-2014 22:27:36] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 23
+[29-Dec-2014 22:27:54] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 21
+[29-Dec-2014 22:37:56] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:38:11] PHP Fatal error:  Call to undefined method DOMDocument::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:38:24] PHP Fatal error:  Call to undefined method DOMElement::children() in /home1/rpataca/public_html/sandbox/weather/index.php on line 15
+[29-Dec-2014 22:39:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:39:59] PHP Fatal error:  Call to a member function children() on a non-object in /home1/rpataca/public_html/sandbox/weather/index.php on line 23
+[29-Dec-2014 22:41:03] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:41:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:41:53] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:41:53] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:42:28] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:42:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/rpataca/public_html/sandbox/weather/index.php on line 22
+[29-Dec-2014 22:55:49] PHP Fatal error:  Call to a member function xpath() on a non-object in /home1/rpataca/public_html/sandbox/weather/index.php on line 10
+[03-Jan-2015 10:45:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/rpataca/public_html/sandbox/weather/index.php on line 3
+[03-Jan-2015 10:45:10] PHP Parse error:  syntax error, unexpected T_PRINT in /home1/rpataca/public_html/sandbox/weather/index.php on line 34
+[03-Jan-2015 10:55:56] PHP Fatal error:  Call to undefined function  alert() in /home1/rpataca/public_html/sandbox/weather/index.php on line 23
